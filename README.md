@@ -1,6 +1,6 @@
 # DirectionalAvatarLight
 
-This is a fork of the [PiMaker/VRChatUnityThings](https://github.com/PiMaker/VRChatUnityThings) repository, focusing on the AvatarLight part. Instead of changing the indirect skybox color, this version uses a directional light.
+This is a fork of [PiMaker/VRChatUnityThings](https://github.com/PiMaker/VRChatUnityThings), focusing on the AvatarLight part. Instead of changing the indirect skybox color, this version uses a directional light.
 
 ## Usage
 
